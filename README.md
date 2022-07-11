@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itsxrii1026
+- 👋 Hi, I’m Christine Kommata
 - 👀 I’m interested in being better at programming
-- 🌱 I’m currently learning perl and python
+- 🌱 I’m currently a university student
 - 💞️ I’m looking to collaborate on learning better C
 - 📫 How to reach me @ christkommata@gmail.com
 
